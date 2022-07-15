@@ -1,5 +1,6 @@
 # tkinterQuiz
-First draft of a GUI quiz program using tkinter. 
+First draft of a GUI quiz program using tkinter.
+(At the moment the design of the UI is not nice to look at) 
 Goal of future drafts to be a useable study aid for recruits/probationary Fire Fighters 
 questions_protocol.py contains input data for the quiz. 
 This could be any question list in the same format.
